@@ -1,0 +1,70 @@
+#heading-1{
+    color: red;
+    
+}
+#paragraph-line-1{
+    color:brown;
+    
+}
+
+#text-decorate{
+    text-decoration: line-through;
+}
+#text-background{
+    background-color: yellow;
+}
+#text-underline{
+    text-decoration: underline;
+}
+#Inline-list{
+    text-indent: 50px;
+    letter-spacing: 5px;
+    color: brown;
+
+}
+#Internal-list{
+    text-indent: 50px;
+    letter-spacing: 5px;
+    color: brown;
+}
+#External-list{
+    text-indent: 50px;
+    letter-spacing: 5px;
+    color: brown;
+
+}
+#Paragraph-list{
+    text-indent: 50px;
+    letter-spacing: 5px;
+    color: brown;
+
+}
+#paragraph-line-2{
+    
+    margin-top: -2px;
+    margin-left:24px;
+}
+#paragraph-line-3{
+    
+    margin-top: -15px;
+    margin-left:24px;
+}
+#highlite-text{
+    background-color: yellow;
+}
+#paragraph-line-4{
+    color: brown;
+}
+#Prepbytes-page{
+    background-color: yellow;
+    color:brown;
+
+}
+#Prepbytes-page{
+background-color:yellow;
+}
+#button{
+    color: brown;
+    background-color:yellow; 
+     
+}
